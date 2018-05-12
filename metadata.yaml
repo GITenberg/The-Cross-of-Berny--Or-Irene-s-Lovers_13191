@@ -1,0 +1,69 @@
+_repo: The-Cross-of-Berny--Or-Irene-s-Lovers_13191
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Holcomb, Florence
+    gutenberg_agent_id: '25632'
+    url: http://www.gutenberg.org/2009/agents/25632
+  - agent_name: Fendall, Florence
+    gutenberg_agent_id: '25631'
+    url: http://www.gutenberg.org/2009/agents/25631
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Méry, Joseph
+    aliases:
+    - Mery, Francois-Joseph-Pierre-Andre
+    - Méry, François-Joseph-Pierre-André
+    - Mery, Francois Joseph Pierre Agnes
+    - Méry, François Joseph Pierre Agnès
+    birthdate: 1798
+    deathdate: 1865
+    gutenberg_agent_id: '25630'
+    url: http://www.gutenberg.org/2009/agents/25630
+  - agent_name: Girardin, Emile de, Mme
+    aliases:
+    - Gay, Delphine
+    - Girardin, Delphine de
+    - Girardin, Delphine Gay de
+    - Launay, Charles, vicomte de
+    - Girardon, Emile de, Mme
+    - Girardin, Mme Emile de
+    birthdate: 1804
+    deathdate: 1855
+    gutenberg_agent_id: '9869'
+    url: http://www.gutenberg.org/2009/agents/9869
+  - agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Theophile
+    - Gaultier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    birthdate: &id001 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+  - agent_name: Sandeau, Jules
+    birthdate: *id001
+    deathdate: 1883
+    gutenberg_agent_id: '25629'
+    url: http://www.gutenberg.org/2009/agents/25629
+description: ''
+gutenberg_issued: '2004-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Cross of Berny; Or, Irene's Lovers
+url: http://www.gutenberg.org/ebooks/13191
