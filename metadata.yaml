@@ -40,7 +40,7 @@ creator:
     - Gautier, Theophile
     - Gaultier, Theophile
     - Gautier, Pierre-Jules-Théophile
-    birthdate: &id001 1811
+    birthdate: 1811
     deathdate: 1872
     gutenberg_agent_id: '5450'
     url: http://www.gutenberg.org/2009/agents/5450
@@ -48,11 +48,13 @@ creator:
     - http://en.wikipedia.org/wiki/Théophile_Gautier
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
   - agent_name: Sandeau, Jules
-    birthdate: *id001
+    birthdate: 1811
     deathdate: 1883
     gutenberg_agent_id: '25629'
     url: http://www.gutenberg.org/2009/agents/25629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13191#The-Cross-of-Berny--Or-Irene-s-Lovers
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
 identifiers:
